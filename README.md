@@ -119,7 +119,7 @@ ScholarshipBot/
 ├── .gitignore
 
 └── README.md
-
+```
 How the System Works:
 
 
