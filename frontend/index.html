@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Scholarship Advisor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Main Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app-wrapper">
+    <div class="app-card">
+
+      <!-- Header -->
+      <header class="app-header">
+        <h1>Smart Scholarship Advisor</h1>
+        <p>Personalized scholarship eligibility guidance</p>
+      </header>
+
+      <!-- STEP 1 : Category Dropdown -->
+      <div id="category-wrapper" class="category-card">
+        <label for="category">Select your category</label>
+        <select id="category" class="category-select">
+          <option value="">Choose category</option>
+          <option value="GEN">General</option>
+          <option value="OBC">OBC</option>
+          <option value="SC">SC</option>
+        </select>
+      </div>
+
+      <!-- Progress -->
+      <div id="progress" class="progress-text">
+        Step 1 of 4
+      </div>
+
+      <!-- Chat + Options -->
+      <div id="chat" class="chat-box"></div>
+      <div id="options" class="options-box"></div>
+
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    Developed as a Mini Project • B.Tech CSE
+  </footer>
+
+  <!-- Main Script -->
+  <script src="./script.js"></script>
+
+</body>
+</html>

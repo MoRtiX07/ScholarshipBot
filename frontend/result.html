@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scholarship Result</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app-wrapper">
+  <div class="app-card">
+
+    <header class="app-header">
+      <h1>Scholarship Results</h1>
+      <p>Eligibility summary & application guidance</p>
+    </header>
+
+    <div id="summary" class="summary-box"></div>
+
+    <div id="result" class="result-grid"></div>
+
+    <div class="restart-wrapper">
+      <button class="btn-secondary" onclick="goBack()">
+        Check another student
+      </button>
+    </div>
+
+  </div>
+
+  <!-- ✅ FIX 1: use class that matches CSS -->
+  <div class="app-footer">
+    Academic Prototype • Computer Science & Engineering
+  </div>
+
+</div>
+
+<script src="result.js"></script>
+
+<script>
+function goBack() {
+  const card = document.querySelector(".app-card");
+
+  if (card) {
+    card.classList.add("page-exit");
+    setTimeout(() => {
+      location.href = "index.html";
+    }, 400);
+  } else {
+    location.href = "index.html";
+  }
+}
+</script>
+
+</body>
+</html>

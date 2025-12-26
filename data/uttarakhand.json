@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Uttarakhand Post Matric Scholarship (SC)",
+    "authority": "Department of Social Welfare, Uttarakhand",
+    "category": "SC",
+    "income_limit": 200000,
+    "min_marks": 50,
+    "amount": "45000",
+    "deadline": "2025-10-20",
+    "apply_link": "https://scholarships.uk.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Domicile Certificate (Uttarakhand)",
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Account Details",
+      "Previous Year Marksheet"
+    ]
+  },
+  {
+    "name": "Uttarakhand Post Matric Scholarship (ST)",
+    "authority": "Department of Social Welfare, Uttarakhand",
+    "category": "SC",
+    "income_limit": 200000,
+    "min_marks": 50,
+    "amount": "45000",
+    "deadline": "2025-10-20",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Domicile Certificate (Uttarakhand)",
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Account Details",
+      "Previous Year Marksheet"
+    ]
+  },
+  {
+    "name": "Uttarakhand OBC Scholarship",
+    "authority": "Department of Social Welfare, Uttarakhand",
+    "category": "OBC",
+    "income_limit": 250000,
+    "min_marks": 60,
+    "amount": "35000",
+    "deadline": "2025-11-05",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Domicile Certificate (Uttarakhand)",
+      "Income Certificate",
+      "OBC Certificate",
+      "Bank Account Details",
+      "Previous Year Marksheet"
+    ]
+  },
+  {
+    "name": "Uttarakhand Merit Scholarship",
+    "authority": "Department of Higher Education, Uttarakhand",
+    "category": "GEN",
+    "income_limit": 300000,
+    "min_marks": 75,
+    "amount": "30000",
+    "deadline": "2025-12-01",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Domicile Certificate (Uttarakhand)",
+      "Income Certificate",
+      "Previous Year Marksheet",
+      "Bonafide Certificate"
+    ]
+  }
+]

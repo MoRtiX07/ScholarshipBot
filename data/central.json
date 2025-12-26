@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Central Post Matric Scholarship (SC)",
+    "authority": "Ministry of Social Justice and Empowerment",
+    "category": "SC",
+    "income_limit": 250000,
+    "min_marks": 50,
+    "amount": "48000",
+    "deadline": "2025-10-31",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Caste Certificate",
+      "Bank Account Details",
+      "Previous Year Marksheet"
+    ]
+  },
+  {
+    "name": "Central Post Matric Scholarship (OBC)",
+    "authority": "Ministry of Social Justice and Empowerment",
+    "category": "OBC",
+    "income_limit": 250000,
+    "min_marks": 60,
+    "amount": "40000",
+    "deadline": "2025-11-15",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "OBC Certificate",
+      "Bank Account Details",
+      "Previous Year Marksheet"
+    ]
+  },
+  {
+    "name": "Central Merit Scholarship",
+    "authority": "Ministry of Education",
+    "category": "GEN",
+    "income_limit": 300000,
+    "min_marks": 75,
+    "amount": "30000",
+    "deadline": "2025-12-10",
+    "apply_link": "https://scholarships.gov.in/",
+    "documents": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Previous Year Marksheet",
+      "Bonafide Certificate"
+    ]
+  }
+]
