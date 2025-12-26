@@ -10,52 +10,51 @@ The goal of this project is to make scholarship discovery simple, fast, and acce
 
 ## Features
 
-\- Eligibility-based scholarship recommendations
+- Eligibility-based scholarship recommendations
 
-\- Supports Central and Uttarakhand state scholarships
+- Supports Central and Uttarakhand state scholarships
 
-\- Simple and user-friendly interface
+- Simple and user-friendly interface
 
-\- Separate frontend and backend structure
+- Separate frontend and backend structure
 
-\- Rule-based filtering for accurate results
+- Rule-based filtering for accurate results
 
-\- Easy to extend for more states and schemes
+- Easy to extend for more states and schemes
 
 ---
 
-\## Technology Stack
+## Technology Stack
 
 
 
 ### Frontend
 
-\- HTML
+- HTML
 
-\- CSS
+- CSS
 
-\- JavaScript
+- JavaScript
 
 
 
 ### Backend
 
-\- Python
+- Python
 
-\- Flask
+- Flask
 
 
 
 ### Data Storage
 
-\- JSON files
+- JSON files
 
 
 
 ### Version Control
 
-\- Git and GitHub
-
+- Git and GitHub
 
 
 ---
@@ -106,6 +105,8 @@ ScholarshipBot/
 
 └── README.md
 ```
+---
+
 ### How the System Works:
 
 The user enters required academic and personal details on the frontend.
@@ -114,6 +115,7 @@ The backend applies eligibility rules on the scholarship dataset.
 Matching scholarships are filtered based on the rules.
 The final list of eligible scholarships is displayed to the user.
 
+---
 
 ## Installation and Setup:
 
@@ -133,6 +135,7 @@ The backend server will start at:
 
 **http://127.0.0.1:5000**
 
+---
 
 ## Author:
 
