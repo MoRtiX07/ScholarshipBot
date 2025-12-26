@@ -38,7 +38,7 @@ The goal of this project is to make scholarship discovery simple, fast, and acce
 
 
 
-\### Backend
+### Backend
 
 \- Python
 
@@ -46,13 +46,13 @@ The goal of this project is to make scholarship discovery simple, fast, and acce
 
 
 
-\### Data Storage
+### Data Storage
 
 \- JSON files
 
 
 
-\### Version Control
+### Version Control
 
 \- Git and GitHub
 
@@ -62,7 +62,7 @@ The goal of this project is to make scholarship discovery simple, fast, and acce
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
