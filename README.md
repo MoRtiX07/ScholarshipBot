@@ -1,24 +1,14 @@
-\# ScholarshipBot
-
-
+# ScholarshipBot
 
 ScholarshipBot is a web-based application that helps students find suitable scholarships based on their eligibility.  
 
 It analyzes academic, personal, and regional details provided by the user and recommends relevant central and state-level scholarships.
 
-
-
 The goal of this project is to make scholarship discovery simple, fast, and accessible for students.
-
-
 
 ---
 
-
-
-\## Features
-
-
+## Features
 
 \- Eligibility-based scholarship recommendations
 
@@ -32,17 +22,13 @@ The goal of this project is to make scholarship discovery simple, fast, and acce
 
 \- Easy to extend for more states and schemes
 
-
-
 ---
-
-
 
 \## Technology Stack
 
 
 
-\### Frontend
+### Frontend
 
 \- HTML
 
@@ -120,54 +106,41 @@ ScholarshipBot/
 
 └── README.md
 ```
-How the System Works:
-
-
+### How the System Works:
 
 The user enters required academic and personal details on the frontend.
-
 The frontend sends the user input to the backend.
-
 The backend applies eligibility rules on the scholarship dataset.
-
 Matching scholarships are filtered based on the rules.
-
 The final list of eligible scholarships is displayed to the user.
 
 
-Installation and Setup:
+## Installation and Setup:
 
-Prerequisites
-
-
+### Prerequisites
 
 Python 3.9 or higher
-
 Git
-
 Any modern web browser
 
-Backend Setup:
+### Backend Setup:
+
 cd backend
-
 pip install flask
-
 python app.py
 
 The backend server will start at:
 
-http://127.0.0.1:5000
+**http://127.0.0.1:5000**
 
 
-Author:
+## Author:
 
 Arham Ali
 
 B.Tech Computer Science Engineering
 
-License
-
-
+## License
 
 This project is developed for academic and educational purposes only.
 
